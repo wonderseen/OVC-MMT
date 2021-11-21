@@ -1,0 +1,6 @@
+from .LIUMCVC_Seq2Seq import LIUMCVC_Seq2Seq
+from .NMT_Seq2Seq import NMT_Seq2Seq
+from .NMT_AttentionImagine_Seq2Seq import NMT_AttentionImagine_Seq2Seq
+from .NMT_Seq2Seq_Beam import NMT_Seq2Seq_Beam
+from .NMT_AttentionImagine_Seq2Seq_Beam_V16 import NMT_AttentionImagine_Seq2Seq_Beam_V16
+from .LIUMCVC_Seq2Seq_Beam import LIUMCVC_Seq2Seq_Beam

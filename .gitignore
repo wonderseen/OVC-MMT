@@ -1,0 +1,4 @@
+data/
+saves/
+__pycache__/
+machine_translation_vision/meteor/data/
