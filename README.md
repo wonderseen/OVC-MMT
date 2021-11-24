@@ -16,8 +16,9 @@ password: ovc0
   link: [[baidu]](https://pan.baidu.com/s/1sw-yGQWUi9qHbyuIfU7SpQ)
   password: ovc0
 
-- data of Multi30K and Ambiguous:
+- data of Multi30K and AmbiguousCOCO:
 
-  link: too large, updating
+  link: too large, updating.
 
-  
+  NOTE: If you don't want to download the large visual object features, you might download the original Multi30K/AmbiguousCOCO dataset and extract the visual object features using the [bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention) project by yourself or using our implements (scripts/bta\_vision\_extract.ipynb) that further filtered objects with low object category probabilities.
+
