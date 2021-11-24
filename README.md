@@ -5,6 +5,19 @@ This code repository highly depends on the research [A Visual Attention Groundin
 
 ## Checkpoints
 
-checkpoint: [[baidu]](https://pan.baidu.com/s/1KHEkKK6wKOzSmxVxkylRzQ) 
+link: [[baidu]](https://pan.baidu.com/s/1KHEkKK6wKOzSmxVxkylRzQ) 
 
 password: ovc0
+
+## Data 
+
+- raw data for similarity searching in scripts/raw_data: 
+
+  link: [[baidu]](https://pan.baidu.com/s/1sw-yGQWUi9qHbyuIfU7SpQ)
+  password: ovc0
+
+- data of Multi30K and Ambiguous:
+
+  link: too large, updating
+
+  
