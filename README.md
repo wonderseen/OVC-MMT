@@ -26,7 +26,7 @@ password: ovc0
 
 ## Reference
 
-If you use the dataset included here in your work, please cite the following paper:
+If you use the source codes here in your work, please cite the corresponding paper. The bibtex is listed below:
 
 ```
 @inproceedings{wang2021efficient,
