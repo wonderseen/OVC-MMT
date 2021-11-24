@@ -5,6 +5,6 @@ This code repository highly depends on the research [A Visual Attention Groundin
 
 ## Checkpoints
 
-checkpoint: [[baidu]](https://pan.baidu.com/s/1LeG-FfT8b2bK7bsvNsV-Rw) 
+checkpoint: [[baidu]](https://pan.baidu.com/s/1KHEkKK6wKOzSmxVxkylRzQ) 
 
 password: ovc0
