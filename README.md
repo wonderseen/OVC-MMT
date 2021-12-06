@@ -1,9 +1,9 @@
 # OVC-MMT
 Source code of [Efficient Object-Level Visual Context Modeling for Multimodal Machine Translation: Masking Irrelevant Objects Helps Grounding](https://www.aaai.org/AAAI21Papers/AAAI-1370.WangD.pdf).
 
-This code repository highly depends on the research [A Visual Attention Grounding Neural Model for Multimodal Machine Translation](https://arxiv.org/abs/1808.08266) and its open-source pytorch implementations ([zmykevin](https://github.com/zmykevin/A-Visual-Attention-Grounding-Neural-Model) and [Eurus-Holmes](https://github.com/Eurus-Holmes/VAG-NMT)). Thanks for these efforts.
+This code repository was built based on the research [A Visual Attention Grounding Neural Model for Multimodal Machine Translation](https://arxiv.org/abs/1808.08266) and its open-source pytorch implementations ([zmykevin](https://github.com/zmykevin/A-Visual-Attention-Grounding-Neural-Model) and [Eurus-Holmes](https://github.com/Eurus-Holmes/VAG-NMT)). Thanks for these efforts.
 
-## Checkpoints
+## Model Checkpoints
 
 Link: [[baidu]](https://pan.baidu.com/s/1KHEkKK6wKOzSmxVxkylRzQ) 
 
@@ -13,11 +13,11 @@ Password: ovc0
 
 - Data of Multi30K and AmbiguousCOCO:
 
-  link: too large, updating.
+  Link: [[baidu]](https://pan.baidu.com/s/1Ruvrt7n8VDzqE-fjwW0m8A)
 
-  NOTE:
+  Password: ovc0
 
-  If you don't feel like to download the large visual object features, you might download the original Multi30K/AmbiguousCOCO dataset, and then extract the visual object features from pre-trained Faster RCNN using the [bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention) project by yourself or using our implement (scripts/bta\_vision\_extract.ipynb) that further filters objects predicted with low object category probabilities by the Faster RCNN.
+  **< NOTE >** The object-level visual features are too large (≈12GB). It is suggested to download the original Multi30K/AmbiguousCOCO dataset and then extract the visual object features from pre-trained Faster RCNN using the [bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention) project by yourself or using our implement (scripts/bta\_vision\_extract.ipynb) that further filters objects predicted with low object category probabilities.
 
 - Raw data for similarity searching in scripts/raw_data: 
 
